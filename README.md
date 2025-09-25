@@ -30,6 +30,7 @@ git push
 docker-compose up -d
 ```
 
+asdas
 ## 1. Contenedores
 
 1.1 ¿ Dónde podemos ver los contendores en marcha en la aplicación Docker Desktop? (Captura)
