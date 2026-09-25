@@ -24,13 +24,11 @@ git push
 
 ## Antes de empezar
 
-- Pon Docker en marcha y ejecuta el comando de docker compose en esta carpeta para levantar las maquinas.
-- 
+- Pon Docker en marcha y ejecuta el comando de docker compose en esta carpeta para levantar la maquina. 
 ```bash
 docker-compose up -d
 ```
 
-asdas
 ## 1. Contenedores
 
 1.1 ¿ Dónde podemos ver los contendores en marcha en la aplicación Docker Desktop? (Captura)
